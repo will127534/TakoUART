@@ -7,3 +7,6 @@ This 5cm x 5cm 4-layer board is based on [CH348Q](http://www.wch-ic.com/products
 The board is designed with Kicad 6.0:
 ![](https://i.imgur.com/PWxYefq.png)
 ![](https://i.imgur.com/U5zm4ql.png)
+
+
+#inaART
